@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
