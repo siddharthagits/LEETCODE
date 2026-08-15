@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddharthagits/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddharthagits/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddharthagits/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
