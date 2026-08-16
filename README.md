@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
