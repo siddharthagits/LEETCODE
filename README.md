@@ -61,13 +61,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
