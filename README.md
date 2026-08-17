@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
 ## Linked List
 |  |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/siddharthagits/LEETCODE/tree/master/0007-reverse-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
