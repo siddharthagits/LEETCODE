@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddharthagits/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/siddharthagits/LEETCODE/tree/master/0134-gas-station) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
