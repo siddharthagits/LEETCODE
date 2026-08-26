@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthagits/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/siddharthagits/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/siddharthagits/LEETCODE/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/siddharthagits/LEETCODE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthagits/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddharthagits/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/siddharthagits/LEETCODE/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
