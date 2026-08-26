@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthagits/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/siddharthagits/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/siddharthagits/LEETCODE/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthagits/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/siddharthagits/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/siddharthagits/LEETCODE/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 ## Manacher
 |  |
 | ------- |
