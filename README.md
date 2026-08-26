@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/siddharthagits/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/siddharthagits/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddharthagits/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
