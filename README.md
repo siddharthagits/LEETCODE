@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/siddharthagits/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddharthagits/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
