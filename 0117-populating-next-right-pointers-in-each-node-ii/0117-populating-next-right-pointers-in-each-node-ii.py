@@ -2,19 +2,31 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return root
-
-        from collections import deque
-        q = deque([root])
-
+        
+        q = root
+        
         while q:
-            size = len(q)
-            for i in range(size):
-                node = q.popleft()
-                if i < size - 1:
-                    node.next = q[0]
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-
+            head = None
+            prev = None
+            k = q
+            
+            while k:
+                if k.left:
+                    if not head:
+                        head = k.left
+                    if prev:
+                        prev.next = k.left
+                    prev = k.left
+                
+                if k.right:
+                    if not head:
+                        head = k.right
+                    if prev:
+                        prev.next = k.right
+                    prev = k.right
+                
+                k = k.next
+            
+            q = head
+        
         return root
