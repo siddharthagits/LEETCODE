@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/siddharthagits/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthagits/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddharthagits/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/siddharthagits/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/siddharthagits/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/siddharthagits/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
