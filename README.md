@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/siddharthagits/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3875-construct-uniform-parity-array-i](https://github.com/siddharthagits/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/siddharthagits/LEETCODE/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/siddharthagits/LEETCODE/tree/master/0029-divide-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/siddharthagits/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
