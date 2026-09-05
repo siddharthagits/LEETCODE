@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/siddharthagits/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/siddharthagits/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthagits/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/siddharthagits/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/siddharthagits/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/siddharthagits/LEETCODE/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
