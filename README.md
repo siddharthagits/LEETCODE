@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/siddharthagits/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/siddharthagits/LEETCODE/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddharthagits/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthagits/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddharthagits/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/siddharthagits/LEETCODE/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthagits/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/siddharthagits/LEETCODE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/siddharthagits/LEETCODE/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 ## Manacher
