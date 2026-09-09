@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthagits/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/siddharthagits/LEETCODE/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0226-invert-binary-tree) |
