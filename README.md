@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/siddharthagits/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddharthagits/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/siddharthagits/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/siddharthagits/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddharthagits/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/siddharthagits/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/siddharthagits/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/siddharthagits/LEETCODE/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/siddharthagits/LEETCODE/tree/master/0389-find-the-difference) |
+| [0844-backspace-string-compare](https://github.com/siddharthagits/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddharthagits/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/siddharthagits/LEETCODE/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
