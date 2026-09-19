@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthagits/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/siddharthagits/LEETCODE/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthagits/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/siddharthagits/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthagits/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthagits/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/siddharthagits/LEETCODE/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/siddharthagits/LEETCODE/tree/master/0146-lru-cache) |
