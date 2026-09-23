@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthagits/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/siddharthagits/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/siddharthagits/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -155,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthagits/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/siddharthagits/LEETCODE/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthagits/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharthagits/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthagits/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/siddharthagits/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Union-Find
 |  |
