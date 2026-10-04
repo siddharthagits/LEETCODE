@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthagits/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/siddharthagits/LEETCODE/tree/master/0113-path-sum-ii) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthagits/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddharthagits/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Simulation
